@@ -164,7 +164,7 @@ footer {
 	float: left;
 	display: inline;
 	margin-right: 1.5%;
-  background: #EFC481;
+  background: #C08321;
   height: 20px;
 }
 
@@ -185,8 +185,8 @@ table td, th {
 }
 
 table th {
-  color: gold;
-  background-color: black;
+  color: white;
+  background-color: #2D5D6C;
 }
 
 table {
